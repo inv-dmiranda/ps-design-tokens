@@ -1,0 +1,11 @@
+{
+  "color": {
+    "brand": {
+      "lighter": { "value": "{color.base.gray.cloud.100}", "type": "string" },
+      "light": { "value": "{color.base.green.forest.40}", "type": "string" },
+      "base": { "value": "{color.base.green.forest.50}", "type": "string" },
+      "dark": { "value": "{color.base.green.forest.20}", "type": "string" },
+      "darker": { "value": "{color.base.green.forest.30}", "type": "string" }
+    }
+  }
+}

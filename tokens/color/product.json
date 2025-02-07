@@ -1,0 +1,111 @@
+{
+  "color": {
+    "product": {
+      "base": {
+        "value": "{color.base.blue.brand.80}",
+        "type": "string"
+      },
+      "dark": {
+        "value": "{color.base.blue.ocean.20}",
+        "type": "string"
+      }
+    },
+    "promotional": {
+      "base": {
+        "value": "{color.base.yellow.brand.80}",
+        "type": "string"
+      },
+      "dark": {
+        "value": "{color.base.yellow.brand.20}",
+        "type": "string"
+      }
+    },
+    "action": {
+      "base": {
+        "value": "{color.base.blue.ocean.50}",
+        "type": "string"
+      },
+      "dark": {
+        "value": "{color.base.blue.ocean.40}",
+        "type": "string"
+      },
+      "disabled": {
+        "value": "{color.base.gray.cloud.80}",
+        "type": "string"
+      },
+      "high": {
+        "value": "{color.base.blue.ocean.70}",
+        "type": "string"
+      },
+      "light": {
+        "value": "{color.base.blue.ocean.90}",
+        "type": "string"
+      }
+    },
+
+    "success": {
+      "value": "{color.base.green.emerald.60}",
+      "type": "string"
+    },
+    "success.dark": {
+      "value": "{color.base.green.emerald.30}",
+      "type": "string"
+    },
+    "success.light": {
+      "value": "{color.base.green.emerald.95}",
+      "type": "string"
+    },
+    "warning": {
+      "value": "{color.base.yellow.gold.70}",
+      "type": "string"
+    },
+    "warning.dark": {
+      "value": "{color.base.yellow.gold.20}",
+      "type": "string"
+    },
+    "warning.light": {
+      "value": "{color.base.yellow.gold.90}",
+      "type": "string"
+    },
+    "error": {
+      "value": "{color.base.red.ruby.40}",
+      "type": "string"
+    },
+    "error.dark": {
+      "value": "{color.base.red.ruby.20}",
+      "type": "string"
+    },
+    "error.light": {
+      "value": "{color.base.red.ruby.90}",
+      "type": "string"
+    },
+    "neutral": {
+      "value": "{color.base.gray.cloud.100}",
+      "type": "string"
+    },
+    "neutral.dark": {
+      "value": "{color.base.gray.cloud.30}",
+      "type": "string"
+    },
+    "neutral.darkest": {
+      "value": "{color.base.gray.cloud.10}",
+      "type": "string"
+    },
+    "neutral.darknest": {
+      "value": "color.base.color.neutral.darkest",
+      "type": "string"
+    },
+    "neutral.high": {
+      "value": "{color.base.gray.cloud.80}",
+      "type": "string"
+    },
+    "neutral.light": {
+      "value": "{color.base.gray.cloud.40}",
+      "type": "string"
+    },
+    "neutral.low": {
+      "value": "{color.base.gray.cloud.95}",
+      "type": "string"
+    }
+  }
+}
